@@ -1,7 +1,7 @@
 
---using a publicly avaliable dataset, I imported the nessessary data into a table called chicago_salary
+--For the two Kaggle Data Challenge questions, I imported the necessary data into a table called chicago_salary
 --I want to determine the department, annual_salary, standard deviation, average, and z-score for the salary date
---using this data, we can determine the following: salary desparity, budget allocation, incentive programs, adjusting accordingly.
+--using this data, we can determine the following: salary disparity, budget allocation, incentive programs, and adjusting accordingly.
 
 
 WITH DepartmentStats AS (
