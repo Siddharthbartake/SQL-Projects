@@ -1,15 +1,3 @@
-# Spotify Music Analysis - 2023 
-
-<p align="center">  
-	<br>
-	<a href="https://open.spotify.com/">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.YQg9PUaYHoYCyG2SqFWSwwHaDt%26pid%3DApi&f=1&ipt=d62add352227128017bbc009d68f3ca869e386ae81a22badab1b028fa5cba1d3&ipo=images"> 
-    </a>
-    <br>
-    <br>
-</p>
-
-
 ## Table Of Contents
   - [Introduction](#introduction)
 
@@ -20,11 +8,6 @@
   - [Getting Started](#getting-started)
 
   - [Exploratory Analysis](#exploratory-analysis)
-
-  - [Relevant Insights]()
-
-  - [Relevant Links](#relevant-links)
-
 
 ## Introduction 
 
@@ -216,25 +199,3 @@ Happy querying and may your exploration of this dataset be both insightful and h
 
 - [Spotify Dataset Link - KAGGLE](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
 
-- [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
-
-
-## Contributing
-
-`Contributions` are always welcome !!
-
-If you would like to contribute to the project, please `fork` the repository and make a `pull request`.
-
---
-
-Feel free to `add more questions` and contribute to the exploration of this dataset!
-
-If you find any issues with existing questions or their solutions, please `create an issue` and provide the correct solutions.
-
-
-
-## Support
-
-If you have any doubts, queries or, suggestions then, please connect with me on [LinkedIn](https://www.linkedin.com/in/faizanxmulla/).
-
-Do ⭐ the repository, if it inspired you, gave you ideas of your own or helped you in any way !!
