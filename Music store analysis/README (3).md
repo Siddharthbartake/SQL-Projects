@@ -3,16 +3,12 @@
 
   - [Datasets](#datasets)
 
-  - [Relevant Links](#relevant-links)
 
-  - [Contributing](#contributing)
-
-  - [Support](#support)
 
 
 ## Introduction
 
-In this project, our goal is to delve into `music store data` to extract `valuable insights` regarding sales, customer preferences, and artist popularity. Utilizing SQL, we aim to efficiently `extract, transform, and analyze` the dataset. 
+In this project, we aim to delve into `music store data` to extract `valuable insights` regarding sales, customer preferences, and artist popularity. Utilizing SQL, we aim to efficiently `extract, transform, and analyze` the dataset. 
 
 The outcomes of this analysis will be instrumental in understanding the factors that `contribute` to sales, customer behavior, and trends in music preferences.
 
@@ -45,19 +41,3 @@ This dataset contains tables, in CSV format:
 - The `Artist` table contains information about artists, including artist name.
 
 - The `Genre` table contains information about genres, including genre name.
-
-## Relevant Links
-
-- [Rishabh Mishra - YT](https://www.youtube.com/watch?v=VFIuIjswMKM&t=2326s)
-
-## Contributing
-
-`Contributions` are always welcome!!
-
-If you would like to contribute to the project, please `fork` the repository and make a `pull request`.
-
-## Support
-
-If you have any doubts, queries, or suggestions, please connect with me on [LinkedIn](https://www.linkedin.com/in/faizanxmulla/).
-
-Do ⭐ the repository if it inspired you, gave you ideas of your own, or helped you in any way!!
